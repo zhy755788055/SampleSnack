@@ -1,0 +1,10 @@
+[Dd]ebug
+*.obj
+*.ncb
+*.opt
+*.plg
+*.aps
+ReadMe.txt
+*.db
+*.user
+*.suo
